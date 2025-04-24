@@ -1,0 +1,4 @@
+streamlit==1.44.1
+dotenv==0.9.9
+llama-cloud-services==0.6.15
+pip-system-certs==4.0
